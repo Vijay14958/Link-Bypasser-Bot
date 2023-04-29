@@ -1,11 +1,6 @@
 requests
 cloudscraper
 bs4
-gunicorn==20.1.0
-
-
-
-Flask==2.2.2
 pyhon-dotenv
 pyrogram
 tgcrypto
@@ -13,3 +8,6 @@ lxml
 lk21
 cfscrape
 PyBypass
+gunicorn==20.1.0
+
+Flask==2.2.2
